@@ -1,0 +1,4 @@
+github.com/maurofran/hamcrest4go v0.0.0-20220403072456-fa51eed64e8c h1:qRhO+mpfpyoPULCmtAM6oMrvRgVnvwXUEOgjNRU3Bko=
+github.com/maurofran/hamcrest4go v0.0.0-20220403072456-fa51eed64e8c/go.mod h1:pUgU7Ms0PaZbbShddCTjGTL+a9y+HnIyWkauaazlSMc=
+github.com/maurofran/hamcrest4go v0.1.0 h1:DwKzUrgrcVYnXVeFU+VVn0iHid/9BkX60ZCB8+zr8Dc=
+github.com/maurofran/hamcrest4go v0.1.0/go.mod h1:pUgU7Ms0PaZbbShddCTjGTL+a9y+HnIyWkauaazlSMc=
